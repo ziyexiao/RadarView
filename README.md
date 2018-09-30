@@ -3,7 +3,7 @@
 
 ## 效果图
 
-![](http://m.qpic.cn/psb?/V14Ej48r2rOT1E/gbNtHO50x6A8bb9eKnm3Yy4LaxJRPAe4MqOzlhMyCX0!/b/dDYBAAAAAAAA&bo=0AKgBQAAAAADB1U!&rf=viewer_4)
+![](http://a3.qpic.cn/psb?/V14Ej48r2rOT1E/gbNtHO50x6A8bb9eKnm3Yy4LaxJRPAe4MqOzlhMyCX0!/m/dDYBAAAAAAAAnull&bo=0AKgBQAAAAADB1U!&rf=photolist&t=5)
 
 ## 简单使用
 
