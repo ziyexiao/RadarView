@@ -25,3 +25,5 @@
 |radarValueSize|雷达图每个属性的值text文字大小|dimension|15sp|
 |radarDescSize|雷达图每个属性的描述text文字大小|dimension|8sp|
 |radarTextMargin|雷达图的文字与图的边距|integer|5dp|
+
+**博客地址：** [https://blog.csdn.net/ziyexiaoxiao/article/details/82906029](https://blog.csdn.net/ziyexiaoxiao/article/details/82906029)
